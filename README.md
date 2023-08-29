@@ -3,7 +3,7 @@
 ## 🔥About me🔥
 I'm a 23 y.o. STEM student from Santiago de Chile, currently studying at [Universidad de Chile](https://uchile.cl/), [FCFM](https://ingenieria.uchile.cl/), part of the [CS Departament](https://www.dcc.uchile.cl/) with a Bachelor's degree in natural and exact sciences from the same University.
 
-## CS related interests
+## 🖥️ CS related interests 🖥️
 Some of the topics of my interest are:
 
 * 🧠 Artificial Intelligence
