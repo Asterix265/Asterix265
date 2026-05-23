@@ -3,8 +3,8 @@
 ## 🔥About me🔥
 I'm a 25 y.o. STEM student from Santiago de Chile, currently studying at [Universidad de Chile](https://uchile.cl/), [FCFM](https://ingenieria.uchile.cl/), part of the [CS Departament](https://www.dcc.uchile.cl/) with a Bachelor's degree in natural and exact sciences from the same University.
   
-🔭 I’m currently working on CTF challenges at Huntress and on an academic project focused on building a secure payment gateway.
-👯 I’m interested in opportunities related to Artificial Intelligence and Cybersecurity.
+🔭 I’m currently working on personals projects, including a phone app called statmaxing and a rfid software.
+🔥 I’m interested in opportunities related to Artificial Intelligence, Cybersecurity and software development.
 🌱 I’m continuously learning — both in technology and in life.
 ⚡ Fun fact: I’m a big fan of manga and manhwa.
 
